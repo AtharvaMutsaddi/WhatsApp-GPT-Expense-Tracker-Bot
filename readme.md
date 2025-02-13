@@ -10,8 +10,8 @@ A simple expense tracking system that allows users to **store and retrieve expen
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/AtharvaMutsaddi/task-bot
+   cd task-bot
    
 2. Install Dependencies
     ```
