@@ -1,0 +1,5 @@
+.env
+venv
+expenses.db
+toolSchemas/__pycache__
+__pycache__

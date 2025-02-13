@@ -1,0 +1,5 @@
+twilio
+Flask
+python-dotenv
+openai
+sqlite3
