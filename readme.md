@@ -12,3 +12,13 @@ A simple expense tracking system that allows users to **store and retrieve expen
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
    cd expense-tracker
+   
+2. Install Dependencies
+    ```
+    pip install -r requirements.txt
+    ```
+# Future Work:
+1. Add LLM routing support
+2. Cloud databases
+3. Vector Search 
+4. OCR for image inputs of expenditure
