@@ -3,3 +3,5 @@ venv
 expenses.db
 toolSchemas/__pycache__
 __pycache__
+ngrokscript.txt
+uploads/
