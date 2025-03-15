@@ -17,8 +17,3 @@ A simple expense tracking system that allows users to **store and retrieve expen
     ```
     pip install -r requirements.txt
     ```
-# Future Work:
-1. Add LLM routing support
-2. Cloud databases
-3. Vector Search 
-4. OCR for image inputs of expenditure
